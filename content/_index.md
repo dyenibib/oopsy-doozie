@@ -14,7 +14,7 @@ sections:
       text: The easy, no-code technical documentation solution your users will love 🎉
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        url: 
         icon: rocket-launch
       secondary_action:
         text: Read the docs
